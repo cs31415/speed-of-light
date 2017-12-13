@@ -1,14 +1,14 @@
 {
   "name": "photography",
   "version": "2.0.3",
-  "description": "A jekyll website for photographer cum developer",
+  "description": "Isaac I. Ullah, Photography",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/isaacullah/photography.git"
   },
   "keywords": [
     "photography",
@@ -19,12 +19,12 @@
     "portfolio",
     "portfolio website"
   ],
-  "author": "Ram Patra",
+  "author": "Isaac Ullah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
+    "url": "https://github.com/isaacullah/photography/issues"
   },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "homepage": "https://isaacullah.github.io/photography",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
