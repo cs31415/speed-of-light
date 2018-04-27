@@ -13,8 +13,7 @@ header:
  subtitle: "by Isaac Ullah"
 footer:
  bio: "I am an archaeologist, world traveler, and lover of the outdoors. I take photos of my travels, of nature, and of details in the built environment."
- copyright: "All images Copyright Isaac Ullah, 2018"
-web_design: "AJ"
+profile_pic: "/prof_pic/pic.jpg"
 social_urls:
   facebook: "https://www.facebook.com/isaacullah"
   twitter: "https://www.twitter.com/isaacullah"

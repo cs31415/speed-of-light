@@ -37,8 +37,7 @@ layout: default
                 <section>
                     <h2>{{ site.footer.name }}</h2>
                     <p>{{ site.footer.bio }}</p>
-                    <p>Check out my research <a href="https://isaacullah.github.io">here</a.></p>
-                    <p>{{ site.footer.copyright }}</p>
+                    <p>Check out my research <a href="https://isaacullah.github.io">here</a></p>
                 </section>
                 <section>
                     <h2>Follow me on ...</h2>
@@ -61,13 +60,19 @@ layout: default
                     </ul>
                 </section>
                 <p class="copyright">
-                    &copy; {{ site.author }}. Design: {{ site.web_design }}
+                    All images &copy; {{ site.author }}.  <a href="https://github.com/ramswaroop/photography">Site template by Ram Petra</a>.
                 </p>
             </div>
             <div>
                 <section>
                     <h2>Get in touch</h2>
                     <a href="mailto:isaaciullah@gmail.com">Send me an e-mail</a>.
+                    <article class="thumb">
+                        <a href="{{ site.baseurl }}{{ site.profile_pic }}" class="image">
+                        <img src="{{ site.baseurl }}{{ site.profile_pic }}" alt=""/></a>
+                        <!--<h2></h2>
+                        <p></p>-->
+                    </article>
                 </section>
             </div>
         </div>
