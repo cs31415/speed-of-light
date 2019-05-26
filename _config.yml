@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "http://darkomir.github.io/imprinted_light/"
+baseurl: "http://darkomir.github.io/imprinted_light"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 #google_analytics: "UA-55626306-1"
