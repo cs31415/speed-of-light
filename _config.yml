@@ -1,15 +1,15 @@
 # Base configs
-baseurl: "http://darkomir.github.io/imprinted_light"
+baseurl: "http://darkomir.github.io/impressing_light"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 #google_analytics: "UA-55626306-1"
 
 # UI configs
-title: "Imprinted Light by Darko"
+title: "Impressing Light by Darko"
 subtitle: "A place where I can keep my photographic memories"
 author: "Darko"
 header: 
- title: "Imprinted Light"
+ title: "Impressing Light"
  subtitle: "by Darko"
 footer:
  bio: "Hi, I'm Dario Miraglia, Darko for my web friends. I'm an Italian normal guy with a passion for photography and everything around it."
