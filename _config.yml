@@ -1,21 +1,19 @@
 # Base configs
-baseurl: "http://darkomir.github.io/impressing_light"
+baseurl: "/speed-of-light"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 #google_analytics: "UA-55626306-1"
 
 # UI configs
-title: "Impressing Light by Darko"
-subtitle: "A place where I can keep my photographic memories"
+title: "Speed of Light"
+subtitle: "Travels through space and time"
 author: "Darko"
 header: 
- title: "Impressing Light"
- subtitle: "by Darko"
+ title: "Speed of Light"
+ subtitle: ""
 footer:
- bio: "Hi, I'm Dario Miraglia, Darko for my web friends. I'm an Italian normal guy with a passion for photography and everything around it."
- publicise: "All images Copyright Darko, 2018-2050"
+ bio: "Shooting for the love of photography, as a meditative waltz through nature or urban scenes and other curiosities, as a way of seeing through the blinkers that day to day living sometimes covers our eyes with, to the transcendent beauty hidden in the humdrum."
+ publicise: "All images Copyright Chandra Sivaraman, 2016-2050"
 web_design: "AJ"
 social_urls:
-  facebook: "https://www.facebook.com/dario.miraglia"
-  instagram: "https://www.instagram.com/darkomir/"
-  github: "https://www.github.com/darkomir"
+  instagram: "https://www.instagram.com/cs31415/"
